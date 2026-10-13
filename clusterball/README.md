@@ -7,7 +7,7 @@ weather come from ClusterForce, set to match each original level. The Tutorial l
 it is a copy of Egypt.
 
 These maps are not part of ClusterForce and are not shipped with the game. They will be offered
-separately (a free Steam DLC or a download in the client).
+separately (planned: the Steam Workshop; until then a free Steam DLC or a download in the client).
 
 ## Contents
 
