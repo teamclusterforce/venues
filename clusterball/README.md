@@ -14,13 +14,13 @@ separately (a free Steam DLC or a download in the client).
 | Path | What it is |
 |---|---|
 | `maps/cb_<level>.cfmap` | One map per level (0.6 to 3.7 MB) |
-| `basepack/textures/<hash>.dds` | The 672 textures the maps share: BC7 with mip maps, named by content hash |
+| `basepack/textures/<name>.dds` | The 678 textures the maps share: BC7 with mip maps, named as the Clusterball artists named them (`bambooroof2`, `bergstoppar`); a name used for different pictures carries its level (`colormap_egypt`) |
 | `basepack/pack.json` | Key, name and origin of the texture pack built from `basepack/` |
 
 ## Building the texture pack
 
 The maps require the pack `clusterball_base` by its content hash
-(`4b55eb6e18ae8b0110939c12016f2268c67a5b726c423a1104ddd1df3f5cbbf8`). It is built from
+(`86bba4c3e17685194eddbeb3cf6e3f8eb45272f4af396a12ae7502ba2a52ad87`). It is built from
 `basepack/` with the ClusterForce converter, bit for bit:
 
 ```
