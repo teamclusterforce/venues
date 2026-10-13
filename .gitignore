@@ -1,0 +1,2 @@
+# Texture packs are build outputs (built from <map set>/basepack with cbport packdir).
+*.cfpack

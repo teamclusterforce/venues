@@ -1,0 +1,5 @@
+{
+  "packKey": "clusterball_base",
+  "name": "Clusterball textures (HD)",
+  "source": "clusterball: level textures, Real-ESRGAN, set hd8, cap 2048 px, BC7"
+}

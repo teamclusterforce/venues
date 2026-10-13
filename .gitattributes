@@ -1,0 +1,5 @@
+# Binary map and texture files: never touch line endings, never diff them.
+*.cfmap binary
+*.cfpack binary
+*.dds binary
+*.png binary
