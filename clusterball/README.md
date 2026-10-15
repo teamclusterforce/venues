@@ -15,4 +15,4 @@ the client).
 | Path | What it is |
 |---|---|
 | `maps/cb_<level>.cfmap` | One map per level (0.6 to 3.7 MB) |
-| `basepack/textures/<name>.dds` | The 678 textures the maps share, named as the Clusterball artists named them (`bambooroof2`, `bergstoppar`); a name used for different pictures carries its level (`colormap_egypt`) |
+| `basepack/textures/<name>.dds` | The 699 textures the maps share, named as the Clusterball artists named them (`bambooroof2`, `bergstoppar`); a name used for different pictures carries its level (`colormap_egypt`) |
