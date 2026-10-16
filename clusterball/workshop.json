@@ -1,0 +1,30 @@
+{
+  "appid": 5063650,
+  "pack": {
+    "file": "community_base.cfpack",
+    "id": 3821047823
+  },
+  "maps": {
+    "cb_antarctica": 3821052443,
+    "cb_bora_bora": 3821052526,
+    "cb_china": 3821052609,
+    "cb_easter_island": 3821052674,
+    "cb_egal": 3821052762,
+    "cb_egypt": 3821052874,
+    "cb_electronica": 3821052943,
+    "cb_gobi": 3821053021,
+    "cb_green_garden_v2": 3821053104,
+    "cb_hangarball": 3821053198,
+    "cb_helterskelter": 3821053268,
+    "cb_lunar": 3821053329,
+    "cb_matterhorn": 3821053413,
+    "cb_metropolis": 3821053475,
+    "cb_pole_position": 3821053547,
+    "cb_ruhrmansk": 3821053634,
+    "cb_shootloop": 3821053717,
+    "cb_stonehenge": 3821053782,
+    "cb_taj_mahal": 3821053850,
+    "cb_tuanake": 3821053942,
+    "cb_yucatan": 3821054023
+  }
+}
