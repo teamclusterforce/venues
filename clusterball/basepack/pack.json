@@ -1,5 +1,5 @@
 {
   "packKey": "community_base",
-  "name": "ClusterForce Community Basepack",
+  "name": "Community Classic Basepack",
   "source": "level textures, Real-ESRGAN, set hd8, cap 2048 px, BC7"
 }
